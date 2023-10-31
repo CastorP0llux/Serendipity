@@ -1,0 +1,3 @@
+
+10월 27, 2023 10:41:41.349 NEW SESSION
+10월 27, 2023 10:41:41.349 [480:7944:1027/104141.347:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2

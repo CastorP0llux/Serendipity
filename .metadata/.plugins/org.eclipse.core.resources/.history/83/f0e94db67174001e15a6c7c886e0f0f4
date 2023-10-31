@@ -1,0 +1,18 @@
+package org.zerock.sample;
+
+public class HotelTests {
+
+		@Setter(onMehod_ = {@Autowired})
+		private SampleHotel hotel;
+		
+		@Test
+		public void testExist() {
+			
+			assertNotNull(hotel);
+			
+			log.info(hotel);
+			log.info("-----------------------------");
+			log.info(hotel.getChef());
+		}
+	
+}
