@@ -8606,3 +8606,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2023-10-31 17:27:07.416
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.equinox.security 1 0 2023-10-31 17:29:07.339
+!MESSAGE New keyring password generated. 
